@@ -1,9 +1,7 @@
 ## Hello! 
 
-I'm Vishakha Singla, a current Economics Honours undergraduate at St. Stephen's College!
+I'm Vishakha Singla, an Economics student at the London School of Economics.
 
-I'm currently exploring the fields of quantitative economics, econometric analysis and data-analysis centric projects!
-
-In my free time, you'll often find me curled-up with a Murakami and coffee.
+I'm interested in exploring data analysis in the context of economic data. This page is my attempt at understanding both.
 
 Available at vishakhasingla222@gmail.com
