@@ -1,7 +1,9 @@
 ## Hello! 
 
-I'm Vishakha Singla, an Economics student at the London School of Economics.
+I'm Vishakha Singla, an Economics student at the London School of Economics. I completed my BA Economics (Hons) from St. Stephen's College.
 
-I'm interested in exploring data analysis in the context of economic data. This page is my attempt at understanding both.
+My research interests include development economics, economics of education and gender economics. 
 
-Available at vishakhasingla222@gmail.com
+When I'm not buried in econ books, I love making art, swimming and digging into a Jane Austen novel!
+
+Get in touch vishakhasingla222@gmail.com :)
