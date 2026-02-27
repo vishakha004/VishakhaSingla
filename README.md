@@ -1,6 +1,6 @@
 ## Hello! 
 
-🎓 I'm Vishakha Singla, an Economics student at the London School of Economics. I completed my BA Economics (Hons) from St. Stephen's College.
+🎓 I'm Vishakha Singla, an MSc Economics student at the London School of Economics. I completed my BA Economics (Hons) from St. Stephen's College.
 
 📚 My research interests include development economics, economics of education and gender economics. 
 
